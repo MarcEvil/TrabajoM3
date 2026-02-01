@@ -2,7 +2,6 @@ console.log("Iniciando aplpicacion... espere un momento porfavor")
 
 // variables 
 let historial = [];
-// Cambiamos 'box' por 'pantalla', que será un div simple en tu HTML
 const pantalla = document.getElementById("consola");
 
 // Objeto de operaciones matematicas
